@@ -1,4 +1,4 @@
-# ValueConverter using exchangerate-api
+# ExchangeConverter using exchangerate-api
 Hi there,
 
 I'm here to talk to you about a currency conversion project that we are currently working on for our webpage. Our goal is to provide our users with an easy-to-use and accurate tool for converting various currencies into their desired denomination.
