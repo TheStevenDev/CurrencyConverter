@@ -9,4 +9,4 @@ This is a simple Java program that allows you to convert currencies.
 
 ## License
 
-This project is distributed under the MIT license. For more information, see the license file.
+This project is distributed under the MIT license. For more information, contact the owner.
